@@ -1,0 +1,28 @@
+body, html {
+    background-color: #323232;
+}
+
+#bar {
+    width: 100%;
+    height: 35px;
+    background-color: #222222;
+    -webkit-app-region: drag;
+}
+
+#content, #login {
+    text-align: center;
+}
+
+#logo, #login {
+    margin-top: 45px;
+}
+
+#login {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#play {
+    width: 100%;
+}
