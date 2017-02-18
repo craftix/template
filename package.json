@@ -2,7 +2,7 @@
   "name": "craftix-template",
   "version": "1.0.0",
   "description": "Create a Minecraft launcher using HTML/CSS/JS",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
     "start": "electron ."
   },
