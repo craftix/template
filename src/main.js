@@ -1,3 +1,10 @@
+/*
+ * WARNING !
+ *
+ * Edit this only if you know what you are doing
+ * The craftix.json config should already have what you need
+ */
+
 const electron = require('electron');
 const path = require('path');
 const url = require('url');
